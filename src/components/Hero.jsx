@@ -1,4 +1,4 @@
-import { curve, heroBackground, robot } from "../assets";
+import { curve, heroBackground, saluki1 } from "../assets";
 import Button from "./Button";
 import Section from "./Section";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";
@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-1 lg:mb-4">
-          Upgrade your lifestyle with Saluki's unique blend of market growth and luxury rewards. 
+          Upgrade your lifestyle with Salukis unique blend of market growth and luxury rewards. 
           From top-tier brands like Rolex, Jacob&Co to the ultra-rare Louis Vuitton light-up bag,
           Saluki brings the epitome of luxury to our community.
           </p>
@@ -51,11 +51,11 @@ const Hero = () => {
 
               <div className="aspect-[33/40] rounded-b-[0.9rem] overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490]">
                 <img
-                  src={robot}
+                  src={saluki1}
                   className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
                   width={1024}
-                  height={490}
-                  alt="AI"
+                  height={690}
+                  alt="rolex"
                 />
 
                 <Generating className="absolute left-4 right-4 bottom-5 md:left-1/2 md:right-auto md:bottom-8 md:w-[31rem] md:-translate-x-1/2" />
