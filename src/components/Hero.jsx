@@ -34,9 +34,9 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-1 lg:mb-4">
-          Upgrade your lifestyle with Salukis unique blend of market growth and luxury rewards. 
-          From top-tier brands like Rolex, Jacob&Co to the ultra-rare Louis Vuitton light-up bag,
-          Saluki brings the epitome of luxury to our community.
+            Upgrade your lifestyle with Salukis unique blend of market growth and luxury rewards.
+            From top-tier brands like Rolex, Jacob&Co to the ultra-rare Louis Vuitton light-up bag,
+            Saluki brings the epitome of luxury to our community.
           </p>
           <Button href="/pricing" white>
             Get started
@@ -78,6 +78,7 @@ const Hero = () => {
               alt="hero"
             />
           </div>
+
 
           <BackgroundCircles />
         </div>
