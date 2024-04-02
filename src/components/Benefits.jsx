@@ -11,7 +11,7 @@ const Benefits = () => {
       <div className="container relative z-2">
         <Heading
           className="md:max-w-md lg:max-w-2xl"
-          title="Chat Smarter, Not Harder with Saluki"
+          title="Spend Smarter, Not Harder with Saluki"
         />
 
         <div className="flex flex-wrap gap-10 mb-10">
@@ -64,7 +64,15 @@ const Benefits = () => {
           ))}
         </div>
       </div>
+      <Heading
+        className="md:max-w-md mt-20  lg:max-w-2xl"
+        title="Presale"
+      
+      />
+
+
     </Section>
+
   );
 };
 
