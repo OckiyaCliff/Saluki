@@ -45,11 +45,7 @@ export const navigation = [
     title: "presale",
     url: "#pricing",
   },
-  {
-    id: "2",
-    title: "How to use",
-    url: "#how-to-use",
-  },
+
  
 ];
 
