@@ -1,5 +1,4 @@
 import { curve, heroBackground, saluki1 } from "../assets";
-import Button from "./Button";
 import Section from "./Section";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";
 import { heroIcons } from "../constants";
@@ -38,9 +37,7 @@ const Hero = () => {
             From top-tier brands like Rolex, Jacob&Co to the ultra-rare Louis Vuitton light-up bag,
             Saluki brings the epitome of luxury to our community.
           </p>
-          <Button href="/pricing" white>
-            Get started
-          </Button>
+          
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
           <div className="relative z-1 p-0.5 rounded-2xl bg-conic-gradient">

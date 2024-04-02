@@ -1,5 +1,3 @@
-import Button from "./Button";
-
 const PreSale = () => {
   return (
     <div className="relative bg-center bg-cover py-12 md:py-16" >
@@ -27,9 +25,7 @@ const PreSale = () => {
           <p className="text-lg md:text-xl lg:text-2xl text-white mb-8">
             Saluki goes out scavenging for luxurious items to bring home to the community. Ultimate Aims are top tier brands such as Rolex, AP, Jacob&Co and even the ultra rare Louis Vuitton keep all light up bag!
           </p>
-          <Button href="/presale" white>
-            Participate Now
-          </Button>
+          
         </div>
       </div>
     </div>
