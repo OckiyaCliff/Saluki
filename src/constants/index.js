@@ -9,7 +9,6 @@ import {
   discord,
   figma,
   file02,
-  framer,
   homeSmile,
   instagram,
   notification2,
@@ -18,8 +17,6 @@ import {
   notion,
   photoshop,
   plusSquare,
-  protopie,
-  raindrop,
   recording01,
   recording03,
   roadmap1,
@@ -27,7 +24,6 @@ import {
   roadmap3,
   roadmap4,
   searchMd,
-  slack,
   sliders04,
   telegram,
   twitter,
@@ -122,6 +118,14 @@ export const collabContent = [
     id: "2",
     title: "Top-notch Security",
   },
+  {
+    id: "3",
+    title: "Top-notch Security",
+  },
+  {
+    id: "4",
+    title: "Top-notch Security",
+  },
 ];
 
 export const collabApps = [
@@ -147,39 +151,11 @@ export const collabApps = [
     height: 28,
   },
   {
-    id: "3",
-    title: "Slack",
-    icon: slack,
-    width: 34,
-    height: 35,
-  },
-  {
     id: "4",
     title: "Photoshop",
     icon: photoshop,
     width: 34,
     height: 34,
-  },
-  {
-    id: "5",
-    title: "Protopie",
-    icon: protopie,
-    width: 34,
-    height: 34,
-  },
-  {
-    id: "6",
-    title: "Framer",
-    icon: framer,
-    width: 26,
-    height: 34,
-  },
-  {
-    id: "7",
-    title: "Raindrop",
-    icon: raindrop,
-    width: 38,
-    height: 32,
   },
 ];
 
@@ -231,7 +207,7 @@ export const benefits = [
   {
     id: "1",
     title: "The Saluki Initiative",
-    text: "Saluki innovatively redefines its place in the crypto landscape by integrating a distinctive approach linked to market expansion. Its main goal is to provide airdrops of tokens and luxury items to its community, creating a strong sense of belonging and unity among its members.",
+    text: "Saluki reimagines its role in the crypto world by rewarding its community with tokens and luxury items, fostering belonging and camaraderie among holders.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -240,7 +216,7 @@ export const benefits = [
   {
     id: "2",
     title: "Market Growth and Token Airdrops",
-    text: "Saluki's innovative approach links its market capitalization to the frequency and scale of airdrops. As the market cap of Saluki grows, the initiative organizes scavenger hunts that reward the holders with exclusive tokens. These tokens not only have inherent value but also act as a testament to a holder's involvement and dedication to the Saluki community.",
+    text: "Saluki's approach ties market cap to airdrop frequency and scale, organizing scavenger hunts to reward holders with exclusive tokens that reflect their involvement and dedication.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -248,7 +224,7 @@ export const benefits = [
   {
     id: "3",
     title: "Luxury Item Scavenging",
-    text: "Beyond tokens, Saluki's most exciting feature is the opportunity for community members to win incredible luxury items. With its market growth, Saluki engages in scavenger hunts to find and distribute sought-after luxury products, such as watches, to its deserving community participants. These items serve as tangible rewards and symbols of achievement, further motivating community members to actively engage with the Saluki initiative    ",
+    text: "Saluki offers community members the chance to win luxury items through scavenger hunts, motivating active engagement with the initiative.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -257,7 +233,7 @@ export const benefits = [
   {
     id: "4",
     title: "Inclusivity and Participation",
-    text: "One of the appealing aspects of Saluki is its inclusive nature. Any individual holding a minimum amount of Saluki tokens can participate in the airdrops and be eligible to win luxury items. This leveling of the playing field ensures that the rewards are distributed fairly and create a sense of excitement among all participants, regardless of their initial investment.    ",
+    text: "Saluki offers community members the chance to win luxury items through scavenger hunts, motivating active engagement with the initiative.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -265,7 +241,7 @@ export const benefits = [
   {
     id: "5",
     title: "Building a Strong Community",
-    text: "Saluki recognizes the importance of community building and engagement. By introducing these unique rewards and incentives, it encourages active participation and interaction among its members. This fosters a supportive and vibrant community where members can share knowledge, experiences, and insights related to Saluki and the broader crypto landscape    ",
+    text: "Saluki values community building and engagement, fostering a supportive environment for members to share knowledge and experiences.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
