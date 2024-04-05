@@ -3,7 +3,6 @@ import Heading from "./Heading";
 import Section from "./Section";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
-import Presale from "./Presale";
 
 const Benefits = () => {
   return (
@@ -58,9 +57,6 @@ const Benefits = () => {
         title="Presale"
       
       />
-
-      
-     <Presale />
 
     </Section>
 

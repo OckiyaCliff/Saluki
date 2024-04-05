@@ -107,24 +107,24 @@ export const collabText =
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
+    title: "Crypto-luxury blend",
     text: collabText,
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Luxury rewards",
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "Scavenger Hunt",
   },
   {
     id: "3",
-    title: "Top-notch Security",
+    title: "Community engagement",
   },
   {
     id: "4",
-    title: "Top-notch Security",
+    title: "Exclusive items",
   },
 ];
 
